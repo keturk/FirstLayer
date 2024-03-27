@@ -9,6 +9,10 @@ Welcome to FirstLayer, a community-driven repository dedicated to sharing a weal
 - **Guides**: Detailed tutorials and guides on everything from getting started with your first print to advanced modification techniques.
 - **Projects**: Small, collaborative projects that showcase innovative uses of 3D printing technology.
 
+## Introducing KlipperFusion
+
+[KlipperFusion](./KlipperFusion/Readme.MD) is our in-house developed tool aimed at enhancing the understanding and management of Klipper configuration files. It's specially designed for complex setups, providing insights into how configurations evolve, tracking changes, and pinpointing final settings. For a deep dive into its features and usage, check out the [KlipperFusion Readme](./KlipperFusion/Readme.MD).
+
 ## Getting Started
 
 To get started, we recommend exploring the [klippain_configs](./klippain_configs) directory if you're looking for printer configurations, or dive into our [Guides](./Guides) section for tutorials and how-tos.
